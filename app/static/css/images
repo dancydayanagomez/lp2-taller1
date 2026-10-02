@@ -1,0 +1,12 @@
+tienda-virtual/
+├── app/
+│   ├── static/
+│   │   ├── css/
+│   │   └── images/
+app/static/images/
+ ├── mouse-mx-master.jpg
+ ├── usb-kingston-64gb.jpg
+ ├── ssd-samsung-evo.jpg
+ ├── teclado-hp.jpg
+ ├── audifonos-sony.jpg
+ └── cargador-magsafe.jpg
